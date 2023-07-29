@@ -13,10 +13,10 @@ const Footer = () => {
           </div>
           <div className='col'>
             <h4>Seguime en mis redes:</h4>
-            <a href="https://www.linkedin.com/in/belendefranchi/" target='_blank'>
+            <a href="https://www.linkedin.com/in/belendefranchi/" target='_blank' rel='noreferrer'>
               <img className='img-fluid m-2' src="linkedin.png" alt="LinkedIn" width="15%"/>
             </a>
-            <a href="https://github.com/Belendefranchi/" target='_blank'>
+            <a href="https://github.com/Belendefranchi/" target='_blank' rel='noreferrer'>
               <img className='img-fluid m-2' src="github.png" alt="GitHub" width="15%"/>
             </a>
           </div>
